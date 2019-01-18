@@ -1,0 +1,20 @@
+/* styling for <Result /> component */
+
+.resultContainer {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+
+.resultStar {
+  margin-right: 12px;
+}
+
+.resultTitle {
+  flex: 1;
+  margin: 0;
+}
+
+.resultBody {
+  flex: 1;
+}
