@@ -1,4 +1,4 @@
-# Live demo: https://kieranhillier.github.io/Shopify_Web_Engineer_Challenger_Summer2019/
+Live demo: https://kieranhillier.github.io/Shopify_Web_Engineer_Challenger_Summer2019/
 
 # Web Engineer Challenge - Summer 2019
 
